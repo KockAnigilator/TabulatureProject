@@ -1,0 +1,94 @@
+C:\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.exe.config
+C:\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.exe
+C:\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.pdb
+C:\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.dll
+C:\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.SqlServer.dll
+C:\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.dll
+C:\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.EF6.dll
+C:\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.Linq.dll
+C:\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.xml
+C:\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.SqlServer.xml
+C:\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.xml
+C:\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.AssemblyReference.cache
+C:\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.SuggestedBindingRedirects.cache
+C:\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.CoreCompileInputs.cache
+C:\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.CopyComplete
+C:\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.exe
+C:\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.pdb
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.exe.config
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.exe
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.pdb
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.dll
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.dll
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.xml
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.xml
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.AssemblyReference.cache
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.SuggestedBindingRedirects.cache
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.CoreCompileInputs.cache
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.CopyComplete
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.exe
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.pdb
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\bin\Debug\TunerLibrary.dll
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\bin\Debug\TunerLibrary.pdb
+C:\Users\2\Downloads\DemonLevTuner\DemonLevTuner\bin\Debug\TunerLibrary.dll.config
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.exe.config
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.exe
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.pdb
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.dll
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.dll
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\bin\Debug\TunerLibrary.dll
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\bin\Debug\TunerLibrary.pdb
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\bin\Debug\TunerLibrary.dll.config
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.xml
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.xml
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.AssemblyReference.cache
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.CoreCompileInputs.cache
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.exe
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.pdb
+C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLev.D2632457.Up2Date
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.exe.config
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.exe
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.pdb
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.dll
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.dll
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\bin\Debug\TunerLibrary.dll
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\bin\Debug\TunerLibrary.pdb
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\bin\Debug\TunerLibrary.dll.config
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.xml
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.xml
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.AssemblyReference.cache
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.CoreCompileInputs.cache
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLev.D2632457.Up2Date
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.exe
+C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.pdb
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.exe.config
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.exe
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.pdb
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.dll
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.dll
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\bin\Debug\TunerLibrary.dll
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\bin\Debug\TunerLibrary.pdb
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\bin\Debug\TunerLibrary.dll.config
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.xml
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.xml
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.AssemblyReference.cache
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.CoreCompileInputs.cache
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.CopyComplete
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.exe
+C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.pdb
