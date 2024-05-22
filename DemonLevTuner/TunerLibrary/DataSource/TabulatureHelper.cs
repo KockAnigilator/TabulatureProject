@@ -13,7 +13,7 @@ namespace TunerLibrary.DataSource
     public static class TabulatureHelper
     {
         //C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\BD\DemLev.db
-        private const string connectionS = "Data Source=C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\DemonLevTuner\\BD\\DemLev.db; FailIfMissing=False";
+        private const string connectionS = "Data Source=C:\\Users\\jonik\\OneDrive\\Документы\\GitHub\\TabulatureProject\\DemonLevTuner\\DemonLevTuner\\BD\\DemLev.db; FailIfMissing=False";
 
         /// <summary>
         /// Тут будет реализация форматирования табулатуры

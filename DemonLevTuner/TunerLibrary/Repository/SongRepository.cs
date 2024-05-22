@@ -29,7 +29,7 @@ namespace TunerLibrary
     public class SongRepositoryImpl : SongRepository
     {
         //C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTuner\DemonLevTuner\BD\DemLev.db
-        private const string connectionS = "datasource = C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\DemonLevTuner\\BD\\DemLev.db; FailIfMissing=False";
+        private const string connectionS = "datasource = C:\\Users\\jonik\\OneDrive\\Документы\\GitHub\\TabulatureProject\\DemonLevTuner\\DemonLevTuner\\BD\\DemLev.db; FailIfMissing=False";
         public void Create(Song song)
         {
             try

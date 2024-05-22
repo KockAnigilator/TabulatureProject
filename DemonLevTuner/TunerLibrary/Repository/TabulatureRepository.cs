@@ -20,7 +20,7 @@ namespace TunerLibrary
         public TabulatureRepositoryImpl() { }
 
         //C:\Users\2\Desktop\DemonLev\DemonLevTunerWIP\DemonLevTuner\DemonLevTuner\BD\TunerDemonLevWIP.sqbpro
-        private const string connectionS = "Data Source=C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\DemonLevTuner\\BD\\DemLev.db; FailIfMissing=False";
+        private const string connectionS = "Data Source=C:\\Users\\jonik\\OneDrive\\Документы\\GitHub\\TabulatureProject\\DemonLevTuner\\DemonLevTuner\\BD\\DemLev.db; FailIfMissing=False";
 
 
         public void CreateTabulature(string StringName, int FretId)

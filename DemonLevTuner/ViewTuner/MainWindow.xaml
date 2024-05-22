@@ -12,7 +12,53 @@
     MinHeight="600"
     WindowStyle="ThreeDBorderWindow"
     mc:Ignorable="d">
-
+    <Window.Resources>
+        <SolidColorBrush x:Key="PrimaryGreenColor" Color="DarkOliveGreen"/>
+        <SolidColorBrush x:Key="TextGreenColor" Color="Black"/>
+        <SolidColorBrush x:Key="ButtonMouseOverColor" Color="Black"/>
+        <!-- Start: PrimaryButtonStyle -->
+        <Style x:Key="PrimaryButtonStyle" TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="{DynamicResource PrimaryGreenColor}"/>
+            <Setter Property="Foreground" Value="{DynamicResource TextGreenColor}"/>
+            <Setter Property="FontWeight" Value= "100"/>
+            <Setter Property="Padding" Value="12 6 12 6"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="MaxHeight" Value="50"/>
+            <Setter Property="Width" Value="Auto"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="btnBorder" CornerRadius="5"
+                         Background="{TemplateBinding Background}"
+                         Width="{TemplateBinding Width}"
+                         MaxHeight="{TemplateBinding MaxHeight}"
+                         BorderThickness ="{TemplateBinding BorderThickness}"
+                         SnapsToDevicePixels="True"       
+                         Padding="{TemplateBinding Padding}">
+                            <ContentPresenter x:Name="ContentPresenter" Focusable="False"
+                                              HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"                
+                                              VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                              Margin="{TemplateBinding Margin}"
+                                              SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"
+                                              RecognizesAccessKey="True"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="btnBorder" Property="Background" Value="{DynamicResource MouseOverColor}">
+                                </Setter>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="btnBorder" Property="Background" Value="{DynamicResource ButtunPressedColor}">
+                                </Setter>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="889*" />
@@ -33,32 +79,23 @@
                 HorizontalAlignment="Center"
                 Orientation="Horizontal">
                 <ComboBox
-                    Width="100"
+                    Width="80"
                     Height="50"
                     Margin="10,0,10,0"
                     ItemsSource="{Binding SongList}"
                     SelectedItem="{Binding SelectedSong}"
                     SelectionChanged="ComboBox_SelectionChanged" />
                 <Button
-                    x:Name="START"
-                    Width="100"
-                    Height="50"
-                    Margin="10,0,10,0"
-                    Background="Gray"
-                    Command="{Binding StartSongCommand}"
-                    FontSize="30">
-                    <Image Source="C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\ViewTuner\Images\pngtree-start-button-with-gradient-and-icon-png-image_2257339.jpg" />
+                    Content="Start"
+                    Style="{DynamicResource PrimaryButtonStyle}"
+                    Command="{Binding StartSongCommand}" Margin ="20,0,10,0" Width="80">
                 </Button>
                 <Button
-                    x:Name="STOP"
-                    Width="100"
-                    Height="50"
-                    Margin="10,0,20,0"
-                    Background="Gray"
-                    Command="{Binding StopSongCommand}"
-                    FontSize="30"
-                    FontStyle="Normal">
-                    <Image Source="C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\ViewTuner\Images\StopButton.jpg" />
+                    Content="Stop"
+                    
+                    Style="{DynamicResource PrimaryButtonStyle}"
+                    Command="{Binding StopSongCommand}" Margin ="20,0,10,0" Width="80">
+                    
                 </Button>
             </StackPanel>
         </Border>
