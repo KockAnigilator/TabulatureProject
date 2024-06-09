@@ -1,58 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\",
+  "WorkspaceRootPath": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\viewtuner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|solutionrelative:viewtuner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E8F77D53-5779-4305-86D6-12AEAD51D871}|WebTuner\\WebTuner.csproj|c:\\\u043F\u0440\u043E\u0433\u0438\\tabulatureproject\\demonlevtuner\\webtuner\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F77D53-5779-4305-86D6-12AEAD51D871}|WebTuner\\WebTuner.csproj|solutionrelative:webtuner\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\tunerlibrary\\datasource\\tabulature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|solutionrelative:tunerlibrary\\datasource\\tabulature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8F77D53-5779-4305-86D6-12AEAD51D871}|WebTuner\\WebTuner.csproj|c:\\\u043F\u0440\u043E\u0433\u0438\\tabulatureproject\\demonlevtuner\\webtuner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8F77D53-5779-4305-86D6-12AEAD51D871}|WebTuner\\WebTuner.csproj|solutionrelative:webtuner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84199562-C562-44E1-B593-DB792141E3A0}|DemonLevTuner\\DemonLevTuner.csproj|C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\demonlevtuner\\\u0622test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8F77D53-5779-4305-86D6-12AEAD51D871}|WebTuner\\WebTuner.csproj|c:\\\u043F\u0440\u043E\u0433\u0438\\tabulatureproject\\demonlevtuner\\webtuner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F77D53-5779-4305-86D6-12AEAD51D871}|WebTuner\\WebTuner.csproj|solutionrelative:webtuner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84199562-C562-44E1-B593-DB792141E3A0}|DemonLevTuner\\DemonLevTuner.csproj|C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\demonlevtuner\\\u0622test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84199562-C562-44E1-B593-DB792141E3A0}|DemonLevTuner\\DemonLevTuner.csproj|solutionrelative:demonlevtuner\\\u0622test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\viewtuner\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\viewtuner\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|solutionrelative:viewtuner\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\viewtuner\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|solutionrelative:viewtuner\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\tunerlibrary\\repository\\tabulaturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|solutionrelative:tunerlibrary\\repository\\tabulaturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\tunerlibrary\\repository\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\tunerlibrary\\repository\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|solutionrelative:tunerlibrary\\repository\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\tunerlibrary\\datasource\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|solutionrelative:tunerlibrary\\datasource\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\tunerlibrary\\datasource\\tabulaturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|solutionrelative:tunerlibrary\\datasource\\tabulaturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|c:\\users\\2\\desktop\\demonlevtunerzhopauraedet (1)\\demonlevtuner\\viewtuner\\tunerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|solutionrelative:viewtuner\\tunerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\viewtuner\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|solutionrelative:viewtuner\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\viewtuner\\core\\asynccommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|solutionrelative:viewtuner\\core\\asynccommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\tunerlibrary\\example\\classinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|solutionrelative:tunerlibrary\\example\\classinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "SongRepository.cs",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\TunerLibrary\\Repository\\SongRepository.cs",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\TunerLibrary\\Repository\\SongRepository.cs",
               "RelativeDocumentMoniker": "TunerLibrary\\Repository\\SongRepository.cs",
-              "ToolTip": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\TunerLibrary\\Repository\\SongRepository.cs",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\TunerLibrary\\Repository\\SongRepository.cs",
               "RelativeToolTip": "TunerLibrary\\Repository\\SongRepository.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAkwB8AAACaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -80,11 +52,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\DemonLevTuner\\\u0622Test\\Program.cs",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\DemonLevTuner\\\u0622Test\\Program.cs",
               "RelativeDocumentMoniker": "DemonLevTuner\\\u0622Test\\Program.cs",
-              "ToolTip": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\DemonLevTuner\\\u0622Test\\Program.cs",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\DemonLevTuner\\\u0622Test\\Program.cs",
               "RelativeToolTip": "DemonLevTuner\\\u0622Test\\Program.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAawCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,147 +65,60 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\WebTuner\\appsettings.json",
+              "RelativeDocumentMoniker": "WebTuner\\appsettings.json",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\WebTuner\\appsettings.json",
+              "RelativeToolTip": "WebTuner\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T12:24:17.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\WebTuner\\Program.cs",
+              "RelativeDocumentMoniker": "WebTuner\\Program.cs",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\WebTuner\\Program.cs",
+              "RelativeToolTip": "WebTuner\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:14:02.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\WebTuner\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "WebTuner\\Data\\DataContext.cs",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\WebTuner\\Data\\DataContext.cs",
+              "RelativeToolTip": "WebTuner\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:08:19.13Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ObservableObject.cs",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\ViewTuner\\Core\\ObservableObject.cs",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\ViewTuner\\Core\\ObservableObject.cs",
               "RelativeDocumentMoniker": "ViewTuner\\Core\\ObservableObject.cs",
-              "ToolTip": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\ViewTuner\\Core\\ObservableObject.cs",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\ViewTuner\\Core\\ObservableObject.cs",
               "RelativeToolTip": "ViewTuner\\Core\\ObservableObject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T13:50:12.639Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\ViewTuner\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ViewTuner\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\ViewTuner\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ViewTuner\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T13:17:00.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tabulature.cs",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\TunerLibrary\\DataSource\\Tabulature.cs",
-              "RelativeDocumentMoniker": "TunerLibrary\\DataSource\\Tabulature.cs",
-              "ToolTip": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\TunerLibrary\\DataSource\\Tabulature.cs",
-              "RelativeToolTip": "TunerLibrary\\DataSource\\Tabulature.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDEAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:52:27.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TabulatureRepository.cs",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\TunerLibrary\\Repository\\TabulatureRepository.cs",
-              "RelativeDocumentMoniker": "TunerLibrary\\Repository\\TabulatureRepository.cs",
-              "ToolTip": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\TunerLibrary\\Repository\\TabulatureRepository.cs",
-              "RelativeToolTip": "TunerLibrary\\Repository\\TabulatureRepository.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAmwBsAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:14:01.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TunerViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\ViewTuner\\TunerViewModel.cs",
-              "RelativeDocumentMoniker": "ViewTuner\\TunerViewModel.cs",
-              "ToolTip": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\ViewTuner\\TunerViewModel.cs",
-              "RelativeToolTip": "ViewTuner\\TunerViewModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGUAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T13:17:37.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\ViewTuner\\Core\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "ViewTuner\\Core\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\ViewTuner\\Core\\RelayCommand.cs",
-              "RelativeToolTip": "ViewTuner\\Core\\RelayCommand.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAvwB8AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T13:50:14.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AsyncCommand.cs",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\ViewTuner\\Core\\AsyncCommand.cs",
-              "RelativeDocumentMoniker": "ViewTuner\\Core\\AsyncCommand.cs",
-              "ToolTip": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\ViewTuner\\Core\\AsyncCommand.cs",
-              "RelativeToolTip": "ViewTuner\\Core\\AsyncCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T14:07:05.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\ViewTuner\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ViewTuner\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\ViewTuner\\MainWindow.xaml",
-              "RelativeToolTip": "ViewTuner\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-12T12:55:15.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TabulatureHelper.cs",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\TunerLibrary\\DataSource\\TabulatureHelper.cs",
-              "RelativeDocumentMoniker": "TunerLibrary\\DataSource\\TabulatureHelper.cs",
-              "ToolTip": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\TunerLibrary\\DataSource\\TabulatureHelper.cs",
-              "RelativeToolTip": "TunerLibrary\\DataSource\\TabulatureHelper.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAowA8AAACZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T14:29:51.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Song.cs",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\TunerLibrary\\DataSource\\Song.cs",
-              "RelativeDocumentMoniker": "TunerLibrary\\DataSource\\Song.cs",
-              "ToolTip": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\TunerLibrary\\DataSource\\Song.cs",
-              "RelativeToolTip": "TunerLibrary\\DataSource\\Song.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:10:02.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ClassInterface.cs",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\TunerLibrary\\Example\\ClassInterface.cs",
-              "RelativeDocumentMoniker": "TunerLibrary\\Example\\ClassInterface.cs",
-              "ToolTip": "C:\\Users\\2\\Desktop\\DemonLevTunerZhopauraedet (1)\\DemonLevTuner\\TunerLibrary\\Example\\ClassInterface.cs",
-              "RelativeToolTip": "TunerLibrary\\Example\\ClassInterface.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAADIAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T13:29:02.198Z"
             }
           ]
         }
