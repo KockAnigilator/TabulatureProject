@@ -1,6 +1,8 @@
 ﻿namespace WebTuner.Data
+
 {
-    public class DataContext
+    public class DataContext : DbContext
     {
+
     }
 }
