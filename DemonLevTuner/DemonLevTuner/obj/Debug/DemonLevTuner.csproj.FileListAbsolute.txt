@@ -92,3 +92,22 @@ C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTune
 C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.CopyComplete
 C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.exe
 C:\Users\jonik\OneDrive\Рабочий стол\DemonLevTunerERERER\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.pdb
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.exe.config
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.exe
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\bin\Debug\DemonLevTuner.pdb
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.dll
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.SqlServer.dll
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.dll
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.EF6.dll
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.Linq.dll
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\bin\Debug\TunerLibrary.dll
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\bin\Debug\TunerLibrary.pdb
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\bin\Debug\TunerLibrary.dll.config
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.xml
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\bin\Debug\EntityFramework.SqlServer.xml
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\bin\Debug\System.Data.SQLite.xml
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.AssemblyReference.cache
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.csproj.CoreCompileInputs.cache
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLev.D2632457.Up2Date
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.exe
+C:\проги\TabulatureProject\DemonLevTuner\DemonLevTuner\obj\Debug\DemonLevTuner.pdb
