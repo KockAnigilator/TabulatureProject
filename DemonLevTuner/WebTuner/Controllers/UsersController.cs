@@ -14,43 +14,45 @@ namespace WebTuner.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
-        private readonly DataContextUser _context;
+        private readonly DataContext _context;
 
-        public UsersController(DataContextUser context)
+        public UsersController(DataContext context)
         {
             _context = context;
         }
 
-        // POST: api/Users
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPost]
-        public async Task<ActionResult<User>> PostUser(User user)
+        // POST: api/Users/register 
+        [HttpPost("/register")]
+        public async Task<IActionResult> Register([FromBody] User user)
         {
-            _context.Users.Add(user);
+            _context.Users.Add(new User() { Login = user.Login, Password = user.Password });
             await _context.SaveChangesAsync();
-
-            return CreatedAtAction("GetUser", new { id = user.Id }, user);
-        }
-
-        // DELETE: api/Users/5
-        [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteUser(int id)
-        {
-            var user = await _context.Users.FindAsync(id);
-            if (user == null)
+            await Console.Out.WriteLineAsync(string.Join(" ",_context.Users.ToList()));
+            var userFound = _context.Users.ToList().Find(e => e.Login == user.Login && e.Password == user.Password);
+            if (userFound == null)
             {
                 return NotFound();
             }
 
-            _context.Users.Remove(user);
-            await _context.SaveChangesAsync();
-
-            return NoContent();
+            return Ok(userFound.Id);
         }
 
-        private bool UserExists(int id)
+        // POST: api/Users/login 
+        [HttpPost("/login")]
+        public async Task<ActionResult<int>> Login([FromBody] User user)
         {
-            return _context.Users.Any(e => e.Id == id);
+
+            var userFound = _context.Users.ToList().Find(e => e.Login == user.Login && e.Password == user.Password);
+            if (userFound == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(userFound.Id);
+
         }
+
     }
 }
+
+

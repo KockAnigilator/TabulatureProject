@@ -14,9 +14,9 @@ namespace WebTuner.Controllers
     [ApiController]
     public class TabulaturesController : ControllerBase
     {
-        private readonly DataContextTabulature _context;
+        private readonly DataContext _context;
 
-        public TabulaturesController(DataContextTabulature context)
+        public TabulaturesController(DataContext context)
         {
             _context = context;
         }
@@ -25,14 +25,14 @@ namespace WebTuner.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Tabulature>>> GetSongs()
         {
-            return await _context.Songs.ToListAsync();
+            return await _context.Tabulatures.ToListAsync();
         }
 
         // GET: api/Tabulatures/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Tabulature>> GetTabulature(int id)
         {
-            var tabulature = await _context.Songs.FindAsync(id);
+            var tabulature = await _context.Tabulatures.FindAsync(id);
 
             if (tabulature == null)
             {
@@ -78,7 +78,7 @@ namespace WebTuner.Controllers
         [HttpPost]
         public async Task<ActionResult<Tabulature>> PostTabulature(Tabulature tabulature)
         {
-            _context.Songs.Add(tabulature);
+            _context.Tabulatures.Add(tabulature);
             await _context.SaveChangesAsync();
 
             return CreatedAtAction("GetTabulature", new { id = tabulature.Id }, tabulature);
@@ -88,13 +88,13 @@ namespace WebTuner.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteTabulature(int id)
         {
-            var tabulature = await _context.Songs.FindAsync(id);
+            var tabulature = await _context.Tabulatures.FindAsync(id);
             if (tabulature == null)
             {
                 return NotFound();
             }
 
-            _context.Songs.Remove(tabulature);
+            _context.Tabulatures.Remove(tabulature);
             await _context.SaveChangesAsync();
 
             return NoContent();
@@ -102,7 +102,7 @@ namespace WebTuner.Controllers
 
         private bool TabulatureExists(int id)
         {
-            return _context.Songs.Any(e => e.Id == id);
+            return _context.Tabulatures.Any(e => e.Id == id);
         }
     }
 }

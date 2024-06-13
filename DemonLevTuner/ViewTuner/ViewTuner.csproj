@@ -77,6 +77,9 @@
     <Compile Include="Core\AsyncCommand.cs" />
     <Compile Include="Core\ObservableObject.cs" />
     <Compile Include="Core\RelayCommand.cs" />
+    <Compile Include="Repo\SongRepository.cs" />
+    <Compile Include="Repo\TabulatureRepository.cs" />
+    <Compile Include="Repo\UserRepository.cs" />
     <Compile Include="TunerViewModel.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -122,6 +125,10 @@
     <ProjectReference Include="..\TunerLibrary\TunerLibrary.csproj">
       <Project>{D6E4F47F-8C5B-43CE-9028-70526EE086D8}</Project>
       <Name>TunerLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WebTuner\WebTuner.csproj">
+      <Project>{e8f77d53-5779-4305-86d6-12aead51d871}</Project>
+      <Name>WebTuner</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

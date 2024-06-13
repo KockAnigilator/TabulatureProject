@@ -67,7 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="BD\DemLev.db" />
+    <None Include="DB\DemLev.db" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

@@ -14,9 +14,9 @@ namespace WebTuner.Controllers
     [ApiController]
     public class SongsController : ControllerBase
     {
-        private readonly DataContextSong _context;
+        private readonly DataContext _context;
 
-        public SongsController(DataContextSong context)
+        public SongsController(DataContext context)
         {
             _context = context;
         }
