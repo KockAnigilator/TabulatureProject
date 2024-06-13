@@ -65,8 +65,7 @@ internal class Program
 
     static async Task<int> Register(User user)
     {
-        HttpClient client = new HttpClient();
-
+        
         HttpResponseMessage response = await client.PostAsJsonAsync(
             "register", user);
         response.EnsureSuccessStatusCode();
