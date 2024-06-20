@@ -5,6 +5,7 @@ using System.Net.Http.Headers;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
+using System.Net.Http.Json;
 
 
 namespace ViewTuner.Repo
@@ -60,7 +61,7 @@ namespace ViewTuner.Repo
             HttpResponseMessage response = await client.GetAsync(path);
             if (response.IsSuccessStatusCode)
             {
-                user = DataSerializer.Deserialize<User>(await response.Content.ReadAsStringAsync())!;
+                user = DataSerializer.Deserialize<User>(await response.Content.ReadAsStringAsync());
             }
             return user;
         }
@@ -69,14 +70,14 @@ namespace ViewTuner.Repo
         {
             HttpClient client = new HttpClient();
 
-            HttpResponseMessage response = await client.PostAsJsonAsync(
-                "register", user);
+            HttpResponseMessage response = await client.PostAsync(
+                "register", JsonContent.Create(user));
             response.EnsureSuccessStatusCode();
 
             int userResponse = 0;
             if (response.IsSuccessStatusCode)
             {
-                userResponse = DataSerializer.Deserialize<int>(await response.Content.ReadAsStringAsync())!;
+                userResponse = DataSerializer.Deserialize<int>(await response.Content.ReadAsStringAsync());
             }
             return userResponse;
         }
@@ -84,14 +85,14 @@ namespace ViewTuner.Repo
         static async Task<int> Login(User user)
         {
 
-            HttpResponseMessage response = await client.PostAsJsonAsync(
-                "login", user);
+            HttpResponseMessage response = await client.PostAsync(
+                "login", JsonContent.Create(user));
             response.EnsureSuccessStatusCode();
 
             int userResponse = 0;
             if (response.IsSuccessStatusCode)
             {
-                userResponse = DataSerializer.Deserialize<int>(await response.Content.ReadAsStringAsync())!;
+                userResponse = DataSerializer.Deserialize<int>(await response.Content.ReadAsStringAsync());
             }
             return userResponse;
         }

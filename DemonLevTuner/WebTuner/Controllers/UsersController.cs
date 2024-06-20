@@ -24,7 +24,7 @@ namespace WebTuner.Controllers
         // POST: api/Users/register 
         [HttpPost("/register")]
         public async Task<IActionResult> Register([FromBody] User user)
-        {
+        { 
             _context.Users.Add(new User() { Login = user.Login, Password = user.Password });
             await _context.SaveChangesAsync();
             await Console.Out.WriteLineAsync(string.Join(" ",_context.Users.ToList()));

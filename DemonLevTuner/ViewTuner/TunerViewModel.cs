@@ -12,12 +12,13 @@ using System.Windows.Threading;
 using TunerLibrary;
 using TunerLibrary.DataSource;
 using ViewTuner.Core;
+using ViewTuner.Repo;
 
 namespace ViewTuner
 {
     public class TunerViewModel : ObservableObject
     {
-        SongRepository _songRepository;
+        SongsDataSource _songRepository;
         private List<Song> _songList;
         private Song _selectedSong;
         private Tabulature _tabulature;
@@ -25,10 +26,13 @@ namespace ViewTuner
         public bool Started { get; private set; }
         public ObservableCollection<string> Strings { get => strings; set { strings = value; OnPropertyChanged("Strings"); } }
 
-        public TunerViewModel(SongRepository songRepository) {
+        public TunerViewModel(SongsDataSource songRepository) {
             _songRepository = songRepository;
-            SongList = _songRepository.Read();
-
+            Init();
+        }
+        public async void Init()
+        {
+            SongList = await _songRepository.GetSong();
         }
 
         public List<Song> SongList { get => _songList; set { _songList = value; OnPropertyChanged("SongList"); } }

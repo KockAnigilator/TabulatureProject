@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Threading;
-using TunerLibrary;
+using ViewTuner.Repo;
 
 namespace ViewTuner
 {
@@ -22,7 +22,7 @@ namespace ViewTuner
     /// </summary>
     public partial class MainWindow : Window
     {
-        SongRepository songRepository = new SongRepositoryImpl();
+        SongsDataSource songRepository = new SongsDataSource();
         TunerViewModel tunerViewModel;
         DispatcherTimer dispatcherTimer { get; set; }
         public MainWindow()

@@ -81,6 +81,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataSource\SongDataSource.cs" />
     <Compile Include="DataSource\Tabulature.cs" />
     <Compile Include="DataSource\TabulatureHelper.cs" />
     <Compile Include="Example\ClassInterface.cs" />
