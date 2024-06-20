@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|c:\\\u043F\u0440\u043E\u0433\u0438\\tabulatureproject\\demonlevtuner\\tunerlibrary\\datasource\\tabulaturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|solutionrelative:tunerlibrary\\datasource\\tabulaturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8F77D53-5779-4305-86D6-12AEAD51D871}|WebTuner\\WebTuner.csproj|c:\\\u043F\u0440\u043E\u0433\u0438\\tabulatureproject\\demonlevtuner\\webtuner\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E8F77D53-5779-4305-86D6-12AEAD51D871}|WebTuner\\WebTuner.csproj|solutionrelative:webtuner\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -53,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|c:\\\u043F\u0440\u043E\u0433\u0438\\tabulatureproject\\demonlevtuner\\tunerlibrary\\datasource\\tabulature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|solutionrelative:tunerlibrary\\datasource\\tabulature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|c:\\\u043F\u0440\u043E\u0433\u0438\\tabulatureproject\\demonlevtuner\\tunerlibrary\\datasource\\tabulaturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|solutionrelative:tunerlibrary\\datasource\\tabulaturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|c:\\\u043F\u0440\u043E\u0433\u0438\\tabulatureproject\\demonlevtuner\\viewtuner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -120,11 +120,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SongRepository.cs",
               "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\TunerLibrary\\Repository\\SongRepository.cs",
               "RelativeDocumentMoniker": "TunerLibrary\\Repository\\SongRepository.cs",
@@ -151,60 +151,12 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\WebTuner\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WebTuner\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\WebTuner\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WebTuner\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-20T18:01:17.923Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SongsDataSource.cs",
-              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\ViewTuner\\Repo\\SongsDataSource.cs",
-              "RelativeDocumentMoniker": "ViewTuner\\Repo\\SongsDataSource.cs",
-              "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\ViewTuner\\Repo\\SongsDataSource.cs",
-              "RelativeToolTip": "ViewTuner\\Repo\\SongsDataSource.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwDkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T17:52:31.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TunerViewModel.cs",
-              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\ViewTuner\\TunerViewModel.cs",
-              "RelativeDocumentMoniker": "ViewTuner\\TunerViewModel.cs",
-              "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\ViewTuner\\TunerViewModel.cs",
-              "RelativeToolTip": "ViewTuner\\TunerViewModel.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T17:33:50.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Tabulature.cs",
-              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\TunerLibrary\\DataSource\\Tabulature.cs",
-              "RelativeDocumentMoniker": "TunerLibrary\\DataSource\\Tabulature.cs",
-              "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\TunerLibrary\\DataSource\\Tabulature.cs",
-              "RelativeToolTip": "TunerLibrary\\DataSource\\Tabulature.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T17:31:56.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Song.cs",
               "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\TunerLibrary\\DataSource\\Song.cs",
               "RelativeDocumentMoniker": "TunerLibrary\\DataSource\\Song.cs",
@@ -217,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SongDataSource.cs",
               "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\ViewTuner\\Repo\\SongDataSource.cs",
               "RelativeDocumentMoniker": "ViewTuner\\Repo\\SongDataSource.cs",
@@ -230,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\ViewTuner\\Repo\\UserRepository.cs",
               "RelativeDocumentMoniker": "ViewTuner\\Repo\\UserRepository.cs",
@@ -243,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\ViewTuner\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ViewTuner\\MainWindow.xaml.cs",
@@ -256,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SongDataSource.cs",
               "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\TunerLibrary\\DataSource\\SongDataSource.cs",
               "RelativeDocumentMoniker": "TunerLibrary\\DataSource\\SongDataSource.cs",
@@ -269,7 +221,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TabulatureHelper.cs",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\TunerLibrary\\DataSource\\TabulatureHelper.cs",
+              "RelativeDocumentMoniker": "TunerLibrary\\DataSource\\TabulatureHelper.cs",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\TunerLibrary\\DataSource\\TabulatureHelper.cs",
+              "RelativeToolTip": "TunerLibrary\\DataSource\\TabulatureHelper.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwEQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:31:57.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tabulature.cs",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\TunerLibrary\\DataSource\\Tabulature.cs",
+              "RelativeDocumentMoniker": "TunerLibrary\\DataSource\\Tabulature.cs",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\TunerLibrary\\DataSource\\Tabulature.cs",
+              "RelativeToolTip": "TunerLibrary\\DataSource\\Tabulature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:31:56.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "TunerViewModel.cs",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\ViewTuner\\TunerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewTuner\\TunerViewModel.cs",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\ViewTuner\\TunerViewModel.cs",
+              "RelativeToolTip": "ViewTuner\\TunerViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:33:50.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\WebTuner\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebTuner\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\WebTuner\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebTuner\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T18:01:17.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\TestApi\\Program.cs",
               "RelativeDocumentMoniker": "TestApi\\Program.cs",
@@ -282,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SongsController.cs",
               "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\WebTuner\\Controllers\\SongsController.cs",
               "RelativeDocumentMoniker": "WebTuner\\Controllers\\SongsController.cs",
@@ -295,7 +299,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "SongsDataSource.cs",
+              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\ViewTuner\\Repo\\SongsDataSource.cs",
+              "RelativeDocumentMoniker": "ViewTuner\\Repo\\SongsDataSource.cs",
+              "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\ViewTuner\\Repo\\SongsDataSource.cs",
+              "RelativeToolTip": "ViewTuner\\Repo\\SongsDataSource.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:52:31.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "DataSerializer.cs",
               "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\ViewTuner\\DataSerializer.cs",
               "RelativeDocumentMoniker": "ViewTuner\\DataSerializer.cs",
@@ -304,19 +321,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T17:36:51.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TabulatureHelper.cs",
-              "DocumentMoniker": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\TunerLibrary\\DataSource\\TabulatureHelper.cs",
-              "RelativeDocumentMoniker": "TunerLibrary\\DataSource\\TabulatureHelper.cs",
-              "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\TunerLibrary\\DataSource\\TabulatureHelper.cs",
-              "RelativeToolTip": "TunerLibrary\\DataSource\\TabulatureHelper.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T17:31:57.706Z",
               "EditorCaption": ""
             },
             {
