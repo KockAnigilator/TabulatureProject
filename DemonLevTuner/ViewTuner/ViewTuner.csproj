@@ -112,7 +112,6 @@
     <Compile Include="Core\ObservableObject.cs" />
     <Compile Include="Core\RelayCommand.cs" />
     <Compile Include="DataSerializer.cs" />
-    <Compile Include="Repo\SongDataSource.cs" />
     <Compile Include="Repo\SongsDataSource.cs" />
     <Compile Include="Repo\User.cs" />
     <Compile Include="Repo\UserRepository.cs" />

@@ -20,7 +20,7 @@
         <Style x:Key="PrimaryButtonStyle" TargetType="{x:Type Button}">
             <Setter Property="Background" Value="{DynamicResource PrimaryGreenColor}"/>
             <Setter Property="Foreground" Value="{DynamicResource TextGreenColor}"/>
-            <Setter Property="FontWeight" Value= "100"/>
+            <Setter Property="FontWeight" Value= "Black"/>
             <Setter Property="Padding" Value="12 6 12 6"/>
             <Setter Property="BorderThickness" Value="0"/>
             <Setter Property="MaxHeight" Value="50"/>
@@ -79,22 +79,21 @@
                 HorizontalAlignment="Center"
                 Orientation="Horizontal">
                 <ComboBox
+                    Margin ="20,0,20,0" 
                     Width="80"
-                    Height="50"
-                    Margin="10,0,10,0"
                     ItemsSource="{Binding SongList}"
                     SelectedItem="{Binding SelectedSong}"
                     SelectionChanged="ComboBox_SelectionChanged" />
                 <Button
                     Content="Start"
                     Style="{DynamicResource PrimaryButtonStyle}"
-                    Command="{Binding StartSongCommand}" Margin ="20,0,10,0" Width="80">
+                    Command="{Binding StartSongCommand}" Margin ="20,0,20,0" Width="80">
                 </Button>
                 <Button
                     Content="Stop"
                     
                     Style="{DynamicResource PrimaryButtonStyle}"
-                    Command="{Binding StopSongCommand}" Margin ="20,0,10,0" Width="80">
+                    Command="{Binding StopSongCommand}" Margin ="20,0,20,0" Width="80">
                     
                 </Button>
             </StackPanel>

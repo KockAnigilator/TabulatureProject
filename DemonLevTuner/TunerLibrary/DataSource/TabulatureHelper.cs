@@ -13,7 +13,7 @@ namespace TunerLibrary.DataSource
     public static class TabulatureHelper
     {
         //C:\Users\2\Desktop\UHU\DemonLevTunerUHU (1)\DemonLevTuner\DemonLevTuner\BD\DemLev.db
-        private const string connectionS = "Data Source=C:\\Users\\jonik\\OneDrive\\Документы\\GitHub\\TabulatureProject\\DemonLevTuner\\DemonLevTuner\\BD\\DemLev.db; FailIfMissing=False";
+        private const string connectionS = "Data Source=C:\\проги\\TabulatureProject\\DemonLevTuner\\WebTuner\\DemLev.db; FailIfMissing=False";
 
         /// <summary>
         /// Тут будет реализация форматирования табулатуры
@@ -62,7 +62,7 @@ namespace TunerLibrary.DataSource
             List<int> stringIds= new List<int>();
             try
             {
-                string sql = $"SELECT * FROM tabulature WHERE songId = {songId};";
+                string sql = $"SELECT * FROM tabulatures WHERE songId = {songId};";
                 using (SQLiteConnection connection = new SQLiteConnection(connectionS))
                 {
                     connection.Open();
@@ -73,12 +73,12 @@ namespace TunerLibrary.DataSource
                         adapter.Fill(data);
                         foreach (DataRow row in data.Rows)
                         {
-                            tabs.Add((int)row.Field<Int64>("лад"));
+                            tabs.Add((int)row.Field<Int64>("Fret"));
                             
-                            pos.Add((int)row.Field<Int64>("position"));
+                            pos.Add((int)row.Field<Int64>("Position"));
 
-                            stringNames.Add((string)row.Field<string>("имя струны"));
-                            stringIds.Add((int)row.Field<Int64>("stringId"));
+                            stringNames.Add((string)row.Field<string>("StringName"));
+                            stringIds.Add((int)row.Field<Int64>("StringId"));
                         }
 
                         return new Tabulature(tabs, pos, stringNames.Distinct().ToList(), stringIds);
