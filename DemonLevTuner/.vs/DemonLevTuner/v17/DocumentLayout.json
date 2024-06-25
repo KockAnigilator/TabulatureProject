@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\tunerlibrary\\datasource\\tabulature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|c:\\\u043F\u0440\u043E\u0433\u0438\\tabulatureproject\\demonlevtuner\\tunerlibrary\\datasource\\tabulature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|solutionrelative:tunerlibrary\\datasource\\tabulature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|solutionrelative:viewtuner\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|c:\\\u043F\u0440\u043E\u0433\u0438\\tabulatureproject\\demonlevtuner\\viewtuner\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\viewtuner\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|solutionrelative:viewtuner\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|solutionrelative:viewtuner\\tunerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|c:\\\u043F\u0440\u043E\u0433\u0438\\tabulatureproject\\demonlevtuner\\tunerlibrary\\datasource\\tabulaturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\tunerlibrary\\datasource\\tabulaturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6E4F47F-8C5B-43CE-9028-70526EE086D8}|TunerLibrary\\TunerLibrary.csproj|solutionrelative:tunerlibrary\\datasource\\tabulaturehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -50,15 +50,15 @@
       "RelativeMoniker": "D:0:0:{E8F77D53-5779-4305-86D6-12AEAD51D871}|WebTuner\\WebTuner.csproj|solutionrelative:webtuner\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|c:\\\u043F\u0440\u043E\u0433\u0438\\tabulatureproject\\demonlevtuner\\viewtuner\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\viewtuner\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|solutionrelative:viewtuner\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|c:\\\u043F\u0440\u043E\u0433\u0438\\tabulatureproject\\demonlevtuner\\viewtuner\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\viewtuner\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|solutionrelative:viewtuner\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|c:\\\u043F\u0440\u043E\u0433\u0438\\tabulatureproject\\demonlevtuner\\viewtuner\\repo\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\viewtuner\\repo\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50C4B7F0-D745-46FE-9FC6-F8C2F965E923}|ViewTuner\\ViewTuner.csproj|solutionrelative:viewtuner\\repo\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -135,7 +135,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
@@ -164,6 +164,10 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
@@ -172,8 +176,7 @@
               "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\ViewTuner\\MainWindow.xaml",
               "RelativeToolTip": "ViewTuner\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-20T17:30:45.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T17:30:45.762Z"
             },
             {
               "$type": "Document",
@@ -185,8 +188,7 @@
               "RelativeToolTip": "TunerLibrary\\DataSource\\TabulatureHelper.cs",
               "ViewState": "AQIAADUAAAAAAAAAAIAwwFEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T17:31:57.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T17:31:57.706Z"
             },
             {
               "$type": "Document",
@@ -198,8 +200,7 @@
               "RelativeToolTip": "ViewTuner\\Repo\\UserRepository.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAewCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T17:36:04.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T17:36:04.164Z"
             },
             {
               "$type": "Document",
@@ -211,8 +212,7 @@
               "RelativeToolTip": "ViewTuner\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T17:54:10.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T17:54:10.405Z"
             },
             {
               "$type": "Document",
@@ -224,8 +224,7 @@
               "RelativeToolTip": "ViewTuner\\packages.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-23T12:49:54.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T12:49:54.35Z"
             },
             {
               "$type": "Document",
@@ -250,8 +249,7 @@
               "RelativeToolTip": "ViewTuner\\DataSerializer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T17:36:51.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T17:36:51.112Z"
             },
             {
               "$type": "Document",
@@ -261,7 +259,7 @@
               "RelativeDocumentMoniker": "TunerLibrary\\DataSource\\Tabulature.cs",
               "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\TunerLibrary\\DataSource\\Tabulature.cs",
               "RelativeToolTip": "TunerLibrary\\DataSource\\Tabulature.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAMwBsAAABTAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T17:31:56.156Z",
               "EditorCaption": ""
@@ -276,8 +274,7 @@
               "RelativeToolTip": "ViewTuner\\Repo\\SongsDataSource.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAgwCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T17:52:31.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T17:52:31.114Z"
             },
             {
               "$type": "Document",
@@ -289,8 +286,7 @@
               "RelativeToolTip": "WebTuner\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-20T18:01:17.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T18:01:17.923Z"
             },
             {
               "$type": "Document",
@@ -302,8 +298,7 @@
               "RelativeToolTip": "ViewTuner\\TunerViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T17:33:50.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T17:33:50.863Z"
             },
             {
               "$type": "Document",
@@ -315,8 +310,7 @@
               "RelativeToolTip": "WebTuner\\Entity\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T13:58:15.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T13:58:15.384Z"
             },
             {
               "$type": "Document",
@@ -327,8 +321,7 @@
               "ToolTip": "C:\\\u043F\u0440\u043E\u0433\u0438\\TabulatureProject\\DemonLevTuner\\ViewTuner\\App.xaml",
               "RelativeToolTip": "ViewTuner\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-23T12:49:42.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T12:49:42.673Z"
             },
             {
               "$type": "Document",
@@ -340,8 +333,7 @@
               "RelativeToolTip": "ViewTuner\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T12:49:39.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T12:49:39.198Z"
             },
             {
               "$type": "Document",
@@ -377,8 +369,7 @@
               "RelativeToolTip": "ViewTuner\\Repo\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T12:38:56.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T12:38:56.069Z"
             },
             {
               "$type": "Document",
@@ -390,8 +381,7 @@
               "RelativeToolTip": "WebTuner\\Data\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T13:59:00.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T13:59:00.549Z"
             },
             {
               "$type": "Document",
